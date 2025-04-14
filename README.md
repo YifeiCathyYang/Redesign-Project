@@ -68,7 +68,7 @@ The redesign is grounded in **Tamara Munzner's Visualization Framework** and **d
 
 ---
 
-**Contact**: Yifei Yang | [yy346@duke.edu](mailto:yy346@duke.edu) | [GitHub Profile](https://github.com/YifeiCathyYang)
+**Contact**: Yifei Yang | [yy346@duke.edu](mailto:yy346@duke.edu)
 
 **Acknowledgments**  
 Special thanks to **Professor Luyao Zhang** for her insightful instruction throughout the INFOSCI 301 course. Her guidance was instrumental in shaping the direction of this project. I also wish to acknowledge **Dongping Liu** (Amazon Web Services) and **Dr. David Schaaf** (Saarland University) for their thoughtful insights, which contributed meaningfully to the redesign process. Appreciation is further extended to my classmates in INFOSCI 301 for their constructive feedback during peer reviews and workshops.  
