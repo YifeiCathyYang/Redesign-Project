@@ -4,7 +4,6 @@
 
 [![Project Poster](https://img.shields.io/badge/View_Full_Poster_PDF-%230077B5?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/YifeiCathyYang/Redesign-Project/blob/main/InfoVis%20Redesign_Poster_Yifei%20Yang_Finalized.pdf)  
 
----
 
 ## 🎯 Goal  
 This project aims to **redesign a global heat stress risk visualization** to improve clarity, interactivity, and ethical data representation. Key objectives include:  
@@ -12,14 +11,12 @@ This project aims to **redesign a global heat stress risk visualization** to imp
 - Integrating dynamic interaction (time slider, tooltips) to explore temporal climate patterns.  
 - Addressing weaknesses in the original visualization, such as missing legends, opaque risk calculations, and static data representation.  
 
----
 
 ## 🛠️ Tools Used  
 - **Python Libraries**: `Plotly` (for interactive maps and charts), `Pandas` (data processing).  
 - **Platform**: Google Colab (cloud-based notebook environment).  
 - **Data Source**: [Climate Change: Earth Surface Temperature Data](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data).  
 
----
 
 ## 📊 Data Visualization Theory  
 The redesign is grounded in **Tamara Munzner's Visualization Framework** and **data governance principles**:  
@@ -37,7 +34,6 @@ The redesign is grounded in **Tamara Munzner's Visualization Framework** and **d
 - **OECD Guidelines**: Clear annotations ensure data traceability.  
 - **DMBOK Standards**: Avoided misleading visuals through standardized encoding.  
 
----
 
 ## 📈 Results  
 ### Redesigned Visualizations  
@@ -58,7 +54,7 @@ The redesign is grounded in **Tamara Munzner's Visualization Framework** and **d
 - ✅ **Enhanced Clarity**: Eliminated overplotting with spatial grouping.  
 - ✅ **Dynamic Exploration**: Time slider enables tracking changes across decades.  
 - ✅ **Ethical Transparency**: Cited data sources and methodology openly.  
----
+
 
 ## 🔍 Data & Code Availability Statement  
 - **Dataset**: [Climate Change: Earth Surface Temperature Data](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data) (accessed April 2025).  
@@ -66,7 +62,6 @@ The redesign is grounded in **Tamara Munzner's Visualization Framework** and **d
   - Includes all code (Google Colab notebooks) and design assets.  
 - **License**: Open-source for academic and non-commercial use.  
 
----
 
 **Contact**: Yifei Yang | [yy346@duke.edu](mailto:yy346@duke.edu)
 
