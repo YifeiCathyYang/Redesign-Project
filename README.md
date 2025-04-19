@@ -2,7 +2,7 @@
 **Course Project for INFOSCI 301 – Data Visualization and Information Aesthetics**  
 *Instructor: Prof. Luyao Zhang | Duke Kunshan University, Spring 2025*  
 
-[![Project Poster](https://img.shields.io/badge/View_Full_Poster_PDF-%230077B5?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/YifeiCathyYang/Redesign-Project/blob/main/InfoVis%20Redesign_Poster_Yifei%20Yang_Finalized.pdf)  
+[![Project Poster](https://img.shields.io/badge/View_Full_Poster_PDF-%230077B5?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/YifeiCathyYang/Redesign-Project/blob/main/Redesign_Poster_Yifei_Yang.pdf)  
 
 
 ## 🎯 Goal  
