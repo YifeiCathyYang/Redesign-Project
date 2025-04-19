@@ -66,4 +66,5 @@ The redesign is grounded in **Tamara Munzner's Visualization Framework** and **d
 **Contact**: Yifei Yang | [yy346@duke.edu](mailto:yy346@duke.edu)
 
 **Acknowledgments**  
+This project has greatly benefited from the discussions at the Digital Technology for Sustainability Symposium at Duke Kunshan University on April 18. I am especially grateful to **Professor Fan Liang** for his valuable feedback, which helped refine my work, and to the conference organizers, **Professors Luyao Zhang, Fan Liang, and Charles Chang**, for making the symposium possible. 
 Special thanks to **Professor Luyao Zhang** for her insightful instruction throughout the INFOSCI 301 course. Her guidance was instrumental in shaping the direction of this project. I also wish to acknowledge **Dongping Liu** (Amazon Web Services) and **Dr. David Schaaf** (Saarland University) for their thoughtful insights, which contributed meaningfully to the redesign process. Appreciation is further extended to my classmates in INFOSCI 301 for their constructive feedback during peer reviews and workshops.  
