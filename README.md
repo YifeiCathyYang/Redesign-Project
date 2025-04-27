@@ -2,7 +2,7 @@
 **Course Project for INFOSCI 301 – Data Visualization and Information Aesthetics**  
 *Instructor: Prof. Luyao Zhang | Duke Kunshan University, Spring 2025*  
 
-[![Project Poster](https://img.shields.io/badge/View_Full_Poster_PDF-%230077B5?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/YifeiCathyYang/Redesign-Project/blob/main/Redesign_Poster_Yifei_Yang.pdf)  
+[![Project Poster]([https://img.shields.io/badge/View_Full_Poster_PDF-%230077B5?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/YifeiCathyYang/Redesign-Project/blob/main/Redesign_Poster_Yifei_Yang.pdf](https://github.com/YifeiCathyYang/Redesign-Project/blob/main/301_Yang_Yifei_Poster.pdf))  
 
 
 ## 🎯 Goal  
@@ -60,7 +60,23 @@ The redesign is grounded in **Tamara Munzner's Visualization Framework** and **d
 - **Dataset**: [Climate Change: Earth Surface Temperature Data](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data) (accessed April 2025).  
 - **GitHub Repository**: [YifeiCathyYang/Redesign-Project](https://github.com/YifeiCathyYang/Redesign-Project)  
   - Includes all code (Google Colab notebooks) and design assets.  
-- **License**: Open-source for academic and non-commercial use.  
+- **License**: Open-source for academic and non-commercial use.
+
+
+## 🎯 Contribution to Sustainable Development Goals (SDGs)
+- **SDG 3: Good Health and Well-Being**: Enhancing public awareness of environmental risks through improved data visualization.
+- **SDG 11: Sustainable Cities and Communities**: Supporting community resilience and sustainable development through accessible climate data.
+![image](https://github.com/user-attachments/assets/222f7935-39f9-4467-bb82-60a2fd19e086)
+
+![image](https://github.com/user-attachments/assets/f96ca5a9-5dc4-48a3-bebc-9d3942c4164d)
+
+## 🌱 Future Research Directions (Digital Humanities & Field Trip Reflection)
+Building on insights from the **Zhouzhuang Mystery of Life Museum**, future research will explore:
+- Creating 3D models of biological specimens to enhance viewer interaction and scientific storytelling.
+- Highlighting the teamwork and ethics behind scientific exhibits through interactive narratives.
+- ![image](https://github.com/user-attachments/assets/283aec50-631d-4f7d-8811-983ffc7ee742)
+
+- ![image](https://github.com/user-attachments/assets/fae71f1e-ece9-421d-aa71-b09b816ce9d4)
 
 
 **Contact**: Yifei Yang | [yy346@duke.edu](mailto:yy346@duke.edu)
